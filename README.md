@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in technology and programming
 
-- 🌱 I’m currently learning **Laravel & java**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **hbibiyoussef27@gmail.com**
  
