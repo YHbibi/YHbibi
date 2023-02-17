@@ -9,7 +9,7 @@
 
 - 🧠 I’m passionate about learning Linux, Automation and Cloud Computing
 
-- 📫 Contact me [here 📧](mailto:youssefhabibi.info@gmail.com)
+- 📫 Contact me [youssefhabibi.info@gmail.com](mailto:youssefhabibi.info@gmail.com) 📧
   
 
 
