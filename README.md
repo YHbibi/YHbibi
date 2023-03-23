@@ -145,9 +145,17 @@
     </tr>
   </tbody>
 </table>
+
+<br/>
  
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yhbibi&show_icons=true&locale=en&layout=compact" alt="yhbibi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yhbibi&show_icons=true&locale=en" alt="yhbibi" /></p>
+ <h2 align="center"> Github statistics 📈 </h2>
+  
+<div align="center"> 
+      <a href="">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yhbibi&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+    </a>
+    <a href="">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yhbibi&theme=react&line_height=40&hide=css"/>
+    </a>
+</div
+  
